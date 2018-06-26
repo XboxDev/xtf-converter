@@ -5,8 +5,8 @@ This tool has been designed for "Xbox.xtf" and "XBox Book.xtf" dashboard-files.
 # Usage
 
 ```
-./main.py "Xbox.xtf" > "Xbox.svg"
-./main.py "XBox Book.xtf" > "XBox Book.svg"
+./xtf-converter.py "Xbox.xtf" > "Xbox.svg"
+./xtf-converter.py "XBox Book.xtf" > "XBox Book.svg"
 ```
 
 # Optional: Convert SVG fonts to TTF
